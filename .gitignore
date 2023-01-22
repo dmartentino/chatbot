@@ -45,7 +45,7 @@ __pypackages__/
 # Environments
 .env
 .venv
-virt/
+/virt/
 
 
 
